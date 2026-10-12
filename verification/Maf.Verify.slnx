@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/verification/">
+    <Project Path="Maf.Tests/Maf.Tests.csproj" />
+  </Folder>
+</Solution>

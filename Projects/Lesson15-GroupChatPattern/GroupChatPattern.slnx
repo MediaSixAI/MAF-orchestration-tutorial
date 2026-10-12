@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GroupChatPattern/GroupChatPattern.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CapstoneDeployAndReview/CapstoneDeployAndReview.csproj" />
+    <Project Path="src/CapstoneDeployAndReviewClient/CapstoneDeployAndReviewClient.csproj" />
+    <Project Path="src/ResearchMcpServer/ResearchMcpServer.csproj" />
+  </Folder>
+</Solution>

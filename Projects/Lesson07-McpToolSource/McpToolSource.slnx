@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/McpToolSource/McpToolSource.csproj" />
+    <Project Path="src/DiceRollerMcpServer/DiceRollerMcpServer.csproj" />
+  </Folder>
+</Solution>
