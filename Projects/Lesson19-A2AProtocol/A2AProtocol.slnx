@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/A2AProtocol/A2AProtocol.csproj" />
+    <Project Path="src/A2AProtocolClient/A2AProtocolClient.csproj" />
+  </Folder>
+</Solution>

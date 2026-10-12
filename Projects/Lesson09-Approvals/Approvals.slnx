@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Approvals/Approvals.csproj" />
+  </Folder>
+</Solution>

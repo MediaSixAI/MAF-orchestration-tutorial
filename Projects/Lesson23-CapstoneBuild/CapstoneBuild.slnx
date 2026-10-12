@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CapstoneBuild/CapstoneBuild.csproj" />
+    <Project Path="src/ResearchMcpServer/ResearchMcpServer.csproj" />
+  </Folder>
+</Solution>
